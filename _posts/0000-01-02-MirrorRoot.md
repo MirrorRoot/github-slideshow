@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+this is lesson 2 of study how to works github 
+to learn github does not seem difficult
